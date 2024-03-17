@@ -1,0 +1,159 @@
+[
+  {
+    "model": "main.product",
+    "pk": 1,
+    "fields": {
+      "name": "neMoloko",
+      "description": "Творожный продукт",
+      "image": "",
+      "category": "Молочные продукты Cостав молочных продуктов",
+      "price_per_unit": 60,
+      "creation_date": "2024-03-15T08:44:40.091Z",
+      "last_modified_date": "2024-03-15T08:44:40.091Z"
+    }
+  },
+  {
+    "model": "main.product",
+    "pk": 2,
+    "fields": {
+      "name": "Кефир",
+      "description": "Творожный продукт",
+      "image": "",
+      "category": "Молочные продукты Cостав молочных продуктов",
+      "price_per_unit": 60,
+      "creation_date": "2024-03-15T08:45:43.839Z",
+      "last_modified_date": "2024-03-15T08:45:43.839Z"
+    }
+  },
+  {
+    "model": "main.product",
+    "pk": 3,
+    "fields": {
+      "name": "Масло",
+      "description": "Творожный продукт",
+      "image": "",
+      "category": "Молочные продукты Cостав молочных продуктов",
+      "price_per_unit": 60,
+      "creation_date": "2024-03-15T08:46:05.756Z",
+      "last_modified_date": "2024-03-15T08:46:05.756Z"
+    }
+  },
+  {
+    "model": "main.product",
+    "pk": 4,
+    "fields": {
+      "name": "Творог",
+      "description": "Творожный продукт",
+      "image": "",
+      "category": "Молочные продукты Cостав молочных продуктов",
+      "price_per_unit": 60,
+      "creation_date": "2024-03-15T08:46:17.186Z",
+      "last_modified_date": "2024-03-15T08:46:17.186Z"
+    }
+  },
+  {
+    "model": "main.product",
+    "pk": 5,
+    "fields": {
+      "name": "Сыр",
+      "description": "Творожный продукт",
+      "image": "",
+      "category": "Молочные продукты Cостав молочных продуктов",
+      "price_per_unit": 60,
+      "creation_date": "2024-03-15T08:47:56.712Z",
+      "last_modified_date": "2024-03-15T08:47:56.713Z"
+    }
+  },
+  {
+    "model": "main.product",
+    "pk": 6,
+    "fields": {
+      "name": "Сосиски",
+      "description": "Мясной продукт",
+      "image": "",
+      "category": "Мясные продукты Cостав",
+      "price_per_unit": 120,
+      "creation_date": "2024-03-15T08:50:35.656Z",
+      "last_modified_date": "2024-03-15T08:50:35.656Z"
+    }
+  },
+  {
+    "model": "main.product",
+    "pk": 7,
+    "fields": {
+      "name": "Котлетки",
+      "description": "Мясной продукт",
+      "image": "",
+      "category": "Мясные продукты Cостав",
+      "price_per_unit": 100,
+      "creation_date": "2024-03-15T08:51:10.482Z",
+      "last_modified_date": "2024-03-15T08:51:10.482Z"
+    }
+  },
+  {
+    "model": "main.product",
+    "pk": 8,
+    "fields": {
+      "name": "Веганские котлетки",
+      "description": "Мясной продукт",
+      "image": "",
+      "category": "Мясные продукты Cостав",
+      "price_per_unit": 100,
+      "creation_date": "2024-03-15T08:51:38.943Z",
+      "last_modified_date": "2024-03-15T08:51:38.943Z"
+    }
+  },
+  {
+    "model": "main.product",
+    "pk": 9,
+    "fields": {
+      "name": "Тортик",
+      "description": "Улучшает качество дня",
+      "image": "",
+      "category": "Сладости Повышает настроение",
+      "price_per_unit": 100,
+      "creation_date": "2024-03-15T11:58:24.902Z",
+      "last_modified_date": "2024-03-15T11:58:24.902Z"
+    }
+  },
+  {
+    "model": "main.category",
+    "pk": 3,
+    "fields": {
+      "name": "Молочные продукты",
+      "description": "Cостав молочных продуктов"
+    }
+  },
+  {
+    "model": "main.category",
+    "pk": 4,
+    "fields": {
+      "name": "Мясные продукты",
+      "description": "Cостав"
+    }
+  },
+  {
+    "model": "main.category",
+    "pk": 5,
+    "fields": {
+      "name": "Сладости",
+      "description": "Повышает настроение"
+    }
+  },
+  {
+    "model": "main.category",
+    "pk": 6,
+    "fields": {
+      "name": "Мясные продукты",
+      "description": "Cостав"
+    }
+  },
+  {
+    "model": "main.category",
+    "pk": 7,
+    "fields": {
+      "name": "Молочные продукты",
+      "description": "Cостав молочных продуктов"
+    }
+  }
+]
